@@ -1,0 +1,6 @@
+{
+  "name": "Zeco AI Intelligence & Prediction System",
+  "description": "Enterprise-grade AI Web Platform for power demand forecasting, outage risk modeling, theft detection, smart billing, and interactive GIS mapping of Unguja and Pemba grids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
